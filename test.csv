@@ -1,0 +1,2 @@
+number,name,gender,math,score
+"[1, 'xiaoming', 'male', 88, 67]","[2, 'xiaohong', 'female', 95, 89]","[3, 'xiaozhang', 'female', 67, 50]","[4, 'xiaoli', 'male', 99, 92]"
